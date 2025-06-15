@@ -1,0 +1,68 @@
+# 网站信息
+site_name: go-leetcode
+site_author: GavinYao
+site_description: 'Go With LeetCode'
+
+# 仓库链接
+repo_url: https://github.com/yaoguyuan/go-leetcode
+repo_name: go-leetcode
+
+# 主题配置
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: 切换到夜间模式
+    - scheme: slate
+      primary: deep-purple
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: 切换到日间模式
+  features:
+    - navigation.tabs 
+    - navigation.sections 
+    - navigation.top 
+    - search.suggest 
+    - search.highlight 
+    - content.code.copy 
+    - content.code.annotate 
+
+# 导航栏配置
+nav:
+  - 'Home': 'index.md'
+  - 'Hot100': 
+    - '哈希表': 
+      - 'LC1': 'hot100/hashTable/LC1.md' 
+      - 'LC49': 'hot100/hashTable/LC49.md' 
+      - 'LC128': 'hot100/hashTable/LC128.md' 
+    - '双指针': 
+      - 'LC283': 'hot100/doublePointers/LC283.md' 
+
+# 扩展配置
+markdown_extensions:
+  - pymdownx.highlight: 
+      anchor_linenums: true 
+      line_spans: __span 
+      pygments_lang_class: true
+  - pymdownx.inlinehilite 
+  - pymdownx.snippets 
+  - pymdownx.superfences 
+  - pymdownx.details 
+  - pymdownx.arithmatex: 
+      generic: true
+  - pymdownx.tabbed: 
+      alternate_style: true
+
+  - admonition 
+  - footnotes 
+  - attr_list 
+  - md_in_html
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML
