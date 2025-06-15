@@ -43,6 +43,9 @@ nav:
       - 'LC128': 'hot100/hashTable/LC128.md' 
     - '双指针': 
       - 'LC283': 'hot100/doublePointers/LC283.md' 
+      - 'LC11': 'hot100/doublePointers/LC11.md' 
+      - 'LC15': 'hot100/doublePointers/LC15.md' 
+      - 'LC42': 'hot100/doublePointers/LC42.md' 
 
 # 扩展配置
 markdown_extensions:
