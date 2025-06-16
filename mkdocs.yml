@@ -46,6 +46,13 @@ nav:
       - 'LC11': 'hot100/doublePointers/LC11.md' 
       - 'LC15': 'hot100/doublePointers/LC15.md' 
       - 'LC42': 'hot100/doublePointers/LC42.md' 
+    - '滑动窗口': 
+      - 'LC3': 'hot100/slidingWindow/LC3.md' 
+      - 'LC438': 'hot100/slidingWindow/LC438.md' 
+    - '子串': 
+      - 'LC560': 'hot100/substring/LC560.md' 
+      - 'LC239': 'hot100/substring/LC239.md' 
+      - 'LC76': 'hot100/substring/LC76.md' 
 
 # 扩展配置
 markdown_extensions:
