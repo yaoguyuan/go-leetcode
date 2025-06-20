@@ -53,6 +53,17 @@ nav:
       - 'LC560': 'hot100/substring/LC560.md' 
       - 'LC239': 'hot100/substring/LC239.md' 
       - 'LC76': 'hot100/substring/LC76.md' 
+    - '普通数组': 
+      - 'LC53': 'hot100/array/LC53.md'
+      - 'LC56': 'hot100/array/LC56.md'
+      - 'LC189': 'hot100/array/LC189.md'
+      - 'LC238': 'hot100/array/LC238.md'
+      - 'LC41': 'hot100/array/LC41.md'
+    - '矩阵': 
+      - 'LC73': 'hot100/matrix/LC73.md'
+      - 'LC54': 'hot100/matrix/LC54.md'
+      - 'LC48': 'hot100/matrix/LC48.md'
+      - 'LC240': 'hot100/matrix/LC240.md'
 
 # 扩展配置
 markdown_extensions:

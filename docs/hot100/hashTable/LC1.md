@@ -1,4 +1,4 @@
-# [LC1 - 两数之和](https://leetcode.cn/problems/two-sum/description/?envType=study-plan-v2&envId=top-100-liked)
+# LC1 - 两数之和
 
 ```go title="TwoSum.go" linenums="1"
 package HashTable
