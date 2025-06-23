@@ -64,6 +64,19 @@ nav:
       - 'LC54': 'hot100/matrix/LC54.md'
       - 'LC48': 'hot100/matrix/LC48.md'
       - 'LC240': 'hot100/matrix/LC240.md'
+    - '链表':
+      - 'LC160': 'hot100/linkedList/LC160.md'
+      - 'LC206': 'hot100/linkedList/LC206.md'
+      - 'LC234': 'hot100/linkedList/LC234.md'
+      - 'LC141': 'hot100/linkedList/LC141.md'
+      - 'LC142': 'hot100/linkedList/LC142.md'
+      - 'LC21': 'hot100/linkedList/LC21.md'
+      - 'LC2': 'hot100/linkedList/LC2.md'
+      - 'LC19': 'hot100/linkedList/LC19.md'
+      - 'LC24': 'hot100/linkedList/LC24.md'
+      - 'LC25': 'hot100/linkedList/LC25.md'
+      - 'LC138': 'hot100/linkedList/LC138.md'
+      - 'LC148': 'hot100/linkedList/LC148.md'
 
 # 扩展配置
 markdown_extensions:
