@@ -77,6 +77,15 @@ nav:
       - 'LC25': 'hot100/linkedList/LC25.md'
       - 'LC138': 'hot100/linkedList/LC138.md'
       - 'LC148': 'hot100/linkedList/LC148.md'
+      - 'LC23': 'hot100/linkedList/LC23.md'
+      - 'LC146': 'hot100/linkedList/LC146.md'
+    - '二叉树':
+      - 'LC94': 'hot100/binaryTree/LC94.md'
+      - 'LC104': 'hot100/binaryTree/LC104.md'
+      - 'LC226': 'hot100/binaryTree/LC226.md'
+      - 'LC101': 'hot100/binaryTree/LC101.md'
+      - 'LC543': 'hot100/binaryTree/LC543.md'
+      - 'LC102': 'hot100/binaryTree/LC102.md'
 
 # 扩展配置
 markdown_extensions:
