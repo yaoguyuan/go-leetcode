@@ -86,6 +86,15 @@ nav:
       - 'LC101': 'hot100/binaryTree/LC101.md'
       - 'LC543': 'hot100/binaryTree/LC543.md'
       - 'LC102': 'hot100/binaryTree/LC102.md'
+      - 'LC108': 'hot100/binaryTree/LC108.md'
+      - 'LC98': 'hot100/binaryTree/LC98.md'
+      - 'LC230': 'hot100/binaryTree/LC230.md'
+      - 'LC199': 'hot100/binaryTree/LC199.md'
+      - 'LC114': 'hot100/binaryTree/LC114.md'
+      - 'LC105': 'hot100/binaryTree/LC105.md'
+      - 'LC437': 'hot100/binaryTree/LC437.md'
+      - 'LC236': 'hot100/binaryTree/LC236.md'
+      - 'LC124': 'hot100/binaryTree/LC124.md'
 
 # 扩展配置
 markdown_extensions:
