@@ -95,6 +95,16 @@ nav:
       - 'LC437': 'hot100/binaryTree/LC437.md'
       - 'LC236': 'hot100/binaryTree/LC236.md'
       - 'LC124': 'hot100/binaryTree/LC124.md'
+    - '图论':
+      - 'LC200': 'hot100/graph/LC200.md'
+      - 'LC994': 'hot100/graph/LC994.md'
+      - 'LC207': 'hot100/graph/LC207.md'
+      - 'LC208': 'hot100/graph/LC208.md'
+    - '回溯':
+      - 'LC46': 'hot100/backtrack/LC46.md'
+      - 'LC78': 'hot100/backtrack/LC78.md'
+      - 'LC17': 'hot100/backtrack/LC17.md'
+      - 'LC39': 'hot100/backtrack/LC39.md'
 
 # 扩展配置
 markdown_extensions:
