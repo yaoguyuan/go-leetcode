@@ -105,6 +105,10 @@ nav:
       - 'LC78': 'hot100/backtrack/LC78.md'
       - 'LC17': 'hot100/backtrack/LC17.md'
       - 'LC39': 'hot100/backtrack/LC39.md'
+      - 'LC22': 'hot100/backtrack/LC22.md'
+      - 'LC79': 'hot100/backtrack/LC79.md'
+      - 'LC131': 'hot100/backtrack/LC131.md'
+      - 'LC51': 'hot100/backtrack/LC51.md'
 
 # 扩展配置
 markdown_extensions:
