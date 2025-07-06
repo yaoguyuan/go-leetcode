@@ -109,6 +109,13 @@ nav:
       - 'LC79': 'hot100/backtrack/LC79.md'
       - 'LC131': 'hot100/backtrack/LC131.md'
       - 'LC51': 'hot100/backtrack/LC51.md'
+    - '二分查找':
+      - 'LC35': 'hot100/binarySearch/LC35.md'
+      - 'LC74': 'hot100/binarySearch/LC74.md'
+      - 'LC34': 'hot100/binarySearch/LC34.md'
+      - 'LC33': 'hot100/binarySearch/LC33.md'
+      - 'LC153': 'hot100/binarySearch/LC153.md'
+      - 'LC4': 'hot100/binarySearch/LC4.md'
 
 # 扩展配置
 markdown_extensions:
