@@ -126,6 +126,11 @@ nav:
       - 'LC215': 'hot100/heap/LC215.md'
       - 'LC347': 'hot100/heap/LC347.md'
       - 'LC295': 'hot100/heap/LC295.md'
+    - '贪心算法':
+      - 'LC121': 'hot100/greedy/LC121.md'
+      - 'LC55': 'hot100/greedy/LC55.md'
+      - 'LC45': 'hot100/greedy/LC45.md'
+      - 'LC763': 'hot100/greedy/LC763.md'
 
 # 扩展配置
 markdown_extensions:
