@@ -140,6 +140,8 @@ nav:
       - 'LC139': 'hot100/dp/LC139.md'
       - 'LC300': 'hot100/dp/LC300.md'
       - 'LC152': 'hot100/dp/LC152.md'
+      - 'LC416': 'hot100/dp/LC416.md'
+      - 'LC32': 'hot100/dp/LC32.md'
 
 # 扩展配置
 markdown_extensions:
