@@ -131,6 +131,15 @@ nav:
       - 'LC55': 'hot100/greedy/LC55.md'
       - 'LC45': 'hot100/greedy/LC45.md'
       - 'LC763': 'hot100/greedy/LC763.md'
+    - '动态规划':
+      - 'LC70': 'hot100/dp/LC70.md'
+      - 'LC118': 'hot100/dp/LC118.md'
+      - 'LC198': 'hot100/dp/LC198.md'
+      - 'LC279': 'hot100/dp/LC279.md'
+      - 'LC322': 'hot100/dp/LC322.md'
+      - 'LC139': 'hot100/dp/LC139.md'
+      - 'LC300': 'hot100/dp/LC300.md'
+      - 'LC152': 'hot100/dp/LC152.md'
 
 # 扩展配置
 markdown_extensions:
