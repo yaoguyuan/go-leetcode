@@ -142,6 +142,18 @@ nav:
       - 'LC152': 'hot100/dp/LC152.md'
       - 'LC416': 'hot100/dp/LC416.md'
       - 'LC32': 'hot100/dp/LC32.md'
+    - '多维动态规划':
+      - 'LC62': 'hot100/dp2/LC62.md'
+      - 'LC64': 'hot100/dp2/LC64.md'
+      - 'LC5': 'hot100/dp2/LC5.md'
+      - 'LC1143': 'hot100/dp2/LC1143.md'
+      - 'LC72': 'hot100/dp2/LC72.md'
+    - '技巧':
+      - 'LC136': 'hot100/other/LC136.md'
+      - 'LC169': 'hot100/other/LC169.md'
+      - 'LC75': 'hot100/other/LC75.md'
+      - 'LC31': 'hot100/other/LC31.md'
+      - 'LC287': 'hot100/other/LC287.md'
 
 # 扩展配置
 markdown_extensions:
